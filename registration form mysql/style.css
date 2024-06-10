@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+h1{
+    color: saddlebrown;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form{
+    width: 500%;
+}
+
+.input-section{
+    text-align: center;
+    margin-top: 100px;
+    box-sizing: border-box;
+    max-width: 700px;
+    margin-left: 300px;
+    padding: 30px;
+    background-color: antiquewhite;
+    width: 100%;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.input-group{
+        margin-bottom: 20px;
+        
+}
+
+#gens{
+    margin-left: 30px;
+    
+}
